@@ -1,0 +1,17 @@
+{
+  "name": "snowpack-config-helpers",
+  "version": "0.0.1",
+  "description": "Set of helper functions to make snowpack configuration easier",
+  "main": "index.js",
+  "repository": "https://github.com/atsikov/snowpack-config-helpers",
+  "author": "Aleksei Tsikov <alexey.tsikov@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@microsoft/rush-lib": "^5.40.7",
+    "typescript": "^4.2.3"
+  },
+  "peerDependencies": {
+    "typescript": ">=3",
+    "@microsoft/rush-lib": ">=5"
+  }
+}
